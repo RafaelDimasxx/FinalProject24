@@ -1,5 +1,5 @@
 public class Aku {
     public static void main(String[] args) {
-        System.out.println("Rafael");
+        System.out.println("RAFAEL LOVE RIZKY");
     }
 }
